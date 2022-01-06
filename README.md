@@ -1,9 +1,15 @@
-### Hi there 👋
+   ## Hello there 👋
+
+
+  I'm a 2nd year student in computer science at Ariel University
+  - 📫 How to reach me: eilonb91@gmail.com
 
 <!--
 **Ebarashi/Ebarashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
