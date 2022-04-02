@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eilon Barashi</h1>
-<h3 align="center">I'm a 2nd year student in CS & Math, Cyber at Ariel University</h3>
+<h3 align="center">I'm a 2nd year student in CS & Math, Cyber </h3>
 
 - 🌱 I’m currently learning at **Ariel University**
 
