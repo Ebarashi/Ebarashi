@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Eilon Barashi</h1>
-<h3 align="center">I'm a 2nd year student in CS & Math, Cyber at Ariel University</h3>
+<h3 align="center">I'm a 2nd year student in CS & Math, Cyber </h3>
+
+
+- 🌱 I’m currently learning at **Ariel University**
+
+- 📫 How to reach me **eilonb91@gmail.com**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ebarashi&label=Profile%20views&color=0e75b6&style=flat" alt="Ebarashi" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ebarashi&label=Visitors%20views&color=0e75b6&style=flat" alt="Ebarashi" /> </p>
-
-
-- 🌱 I’m currently learning **Ariel University**
-
-- 📫 How to reach me **eilonb91@gmail.com**
 
 
 
