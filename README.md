@@ -13,11 +13,10 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=B83A23&random=false&height=70&width=500&lines=+Hey+there%2C;+I'm+Eilon+Barashi!+%F0%9F%91%8B" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=B83A23&random=false&height=70&width=500&lines=+Hey+there%2C;+I'm+Eilon+Barashi!+%F0%9F%91%8B" ">
   </a>
 </h1>
 
-<!-- Bio and Tech Stack Section -->
 <div align="center"> 
   
 **I'm a 3rd-year Computer Science & Math student with a focus on Cybersecurity at Ariel University.**
@@ -37,7 +36,6 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Shell Script">
 </p>
-
 
 
 <!-- GitHub Stats Section -->
