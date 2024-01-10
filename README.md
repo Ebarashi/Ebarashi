@@ -9,18 +9,21 @@
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Ebarashi&icon=0&color=7" alt="Visitor Count">
   </a>
+
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=B83A23&random=false&height=70&width=500&lines=+Hey+there%2C;+I'm+Eilon+Barashi!+%F0%9F%91%8B" ">
+    </a>
+  </h1>
 </p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=B83A23&random=false&height=70&width=500&lines=+Hey+there%2C;+I'm+Eilon+Barashi!+%F0%9F%91%8B" ">
-  </a>
-</h1>
 
 <div align="center"> 
   
 **I'm a 3rd-year Computer Science & Math student with a focus on Cybersecurity at Ariel University.**
 
+<h1 align="center">
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C">
