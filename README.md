@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Ebarashi&icon=0&color=7" alt="Visitor Count">
-  </a>
+  <img src="https://visitcount.itsvg.in/api?id=Ebarashi&label=Profile%20Views&color=3&icon=0&pretty=true" />
+</a>
 
   <h1 align="center">
     <a href="https://git.io/typing-svg">
