@@ -5,11 +5,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Ebarashi&label=Profile%20Views&color=3&icon=0&pretty=true" />
-</a>
-
   <h1 align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=B83A23&random=false&height=70&width=500&lines=+Hey+there%2C;+I'm+Eilon+Barashi!+%F0%9F%91%8B" ">
